@@ -1,0 +1,12 @@
+Array- store the values of same DT
+       Contiguos -Stack,Heap
+       rabdom access
+       fixed size
+       sze of data is small
+
+
+Linked List -store the values of sa,e DT 
+             random allocation for each piece of data only on heap , linked in a sequence
+             sequential access
+             grow as you add values into it, it will shrink ,if you delete values
+             size has no limit
